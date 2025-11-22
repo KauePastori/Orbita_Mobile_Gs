@@ -439,10 +439,8 @@ O app consome `GET /api/metrics` e exibe o último dado recebido.
 
 Projeto desenvolvido por:
 
-**Kaue Pastori Teixeira**  
-Estudante de Engenharia de Software – FIAP  
-Criador do ecossistema **ÓRBITA** (API, Mobile, Metaverso e IoT)
+**Kaue Pastori Teixeira** 
+**Nicolas Nogueira Boni**
+**Felipe Bressane**
 
 ---
-
-Se este repositório te ajudou ou chamou atenção, fique à vontade para deixar uma ⭐ no GitHub!  
